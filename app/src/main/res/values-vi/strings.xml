@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android_day2</string>
+    <string name="text_activity_a">Xin chào A</string>
+    <string name="btn_a">Đi đến B</string>
+</resources>

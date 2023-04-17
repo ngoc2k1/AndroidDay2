@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android_day2</string>
+    <string name="text_activity_a">Hello A</string>
+    <string name="btn_a">Go to B</string>
+</resources>
